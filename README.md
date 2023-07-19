@@ -1,6 +1,6 @@
 # Welcome to my GitHub! 🐣
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FSRV24"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FSRV24&theme=rosa_pine"/>
 
 ## About me 🏄
 

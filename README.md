@@ -4,14 +4,15 @@
 
 ## About me 🏄
 
-- My name is Fernando, but you can call me Fer
+- 👋 Hi, my name is Fernando, but you can call me Fer
+- 🎲 I'm Data Scientist
 - 🌱 I’m currently studying the awesome book *Machine Learning: A Probabilistic Perspective*, from Kevin P. Murphy, I highly recommend it
 - 👊 I’m looking to collaborate on proyects related to Data Science, especially those related to Machine Learning
 - 💬 Ask me about artificial intelligence, machine learning models, physics stuff, databases and Python 🐍
 - 📫 How to reach me:
   - fsrv@ciencias.unam.mx 📧
 
-## Projects
+## Projects 🎨
 
 - **Hackathon on Speech Technologies**, by *Mozilla Foundation*
 

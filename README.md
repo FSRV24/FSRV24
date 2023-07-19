@@ -1,16 +1,13 @@
-### Hi there 👋
+# Welcome to my GitHub! 🐣
 
-<!--
-**FSRV24/FSRV24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FSRV24"/>
 
-Here are some ideas to get you started:
+## About me 🏄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- My name is Fernando, but you can call me Fer
+- 🌱 I’m currently studying the awesome book *Machine Learning: A Probabilistic Perspective*, from Kevin P. Murphy, I highly recommend it
+- 👊 I’m looking to collaborate on proyects related to Data Science, especially those related to Machine Learning
+- 💬 Ask me about artificial intelligence, machine learning models, physics stuff, databases and Python 🐍
+- 📫 How to reach me:
+  - fsrv@ciencias.unam.mx
+  - fsrv21@gmail.com

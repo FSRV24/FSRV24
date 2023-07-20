@@ -11,7 +11,7 @@
 - 💬 Ask me about artificial intelligence, machine learning models, physics stuff, databases and Python 🐍
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/fsrv/) 🚏
-  - E-mail: fsrv@ciencias.unam.mx 🚏
+  - fsrv@ciencias.unam.mx 🚏
 
 ## Projects 🎨
 

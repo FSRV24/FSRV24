@@ -14,7 +14,7 @@
 
 ## Projects 🎨
 
-- **Hackathon on Speech Technologies**, by *Mozilla Foundation*
+- **Hackathon on Speech Technologies**, by *Mozilla Foundation* 🐆
 
   Our team achieved the first place in the category *"Usage of Pretrained Models in Spanish"* by developing an application for writing Python code using voice commands. We utilized pre-trained models from *HuggingFace*.
 

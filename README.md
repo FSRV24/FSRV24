@@ -10,7 +10,8 @@
 - 👊 I’m looking to collaborate on projects related to Data Science, especially those involving the use of Machine Learning tools
 - 💬 Ask me about artificial intelligence, machine learning models, physics stuff, databases and Python 🐍
 - 📫 How to reach me:
-  - fsrv@ciencias.unam.mx 📧
+  - [LinkedIn](https://www.linkedin.com/in/fsrv/) 🚏
+  - E-mail: fsrv@ciencias.unam.mx 🚏
 
 ## Projects 🎨
 
